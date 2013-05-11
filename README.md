@@ -9,7 +9,7 @@ Modified: May 11, 2013
 Developed by Felix Grabowski <fukurokujoe@googlemail.com>
 
 # Screenshots
-![FukurokujoPro](https://github.com/nemesit/vim-colors-fukurokujopro/something/fukurokujopro-vim.png)
+![FukurokujoPro](https://raw.github.com/nemesit/vim-colors-fukurokujopro/master/screenshots/fukurokujopro-vim.png)
 
 # Installation
 
@@ -27,10 +27,13 @@ Developed by Felix Grabowski <fukurokujoe@googlemail.com>
 
 ### Modify .vimrc
 
-After either Option 1 or Option 2 above, put the following two lines in your 
-.vimrc:
+In your .vimrc file add the following line:
 
     colorscheme FukurokujoPro
+
+### iTerm2 ###
+
+In order to see the correct colors of this colorscheme you will have to use the included FukurokujoPro iTerm colors
 
 # License
 Copyright (c) 2013 Felix Grabowski
