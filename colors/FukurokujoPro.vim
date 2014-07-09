@@ -42,7 +42,7 @@ hi clear
 if exists("syntax_on")
 	syntax reset
 endif
-let colors_name = "fukurokujoPro"
+let colors_name = "FukurokujoPro"
 " }}}
 
 
