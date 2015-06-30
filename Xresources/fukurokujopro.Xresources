@@ -1,0 +1,23 @@
+*URxvt.borderColor: #262626
+*background:        #262626
+*foreground: #ffdfaf
+
+*color0: #ffae00
+*color1: #ff8300
+*color2: #ffdfaf
+*color3: #5faf5f
+*color4: #dead5f
+*color5: #ff8300
+*color6: #ffdfaf
+*color7: #ffdfaf
+*color8: #ffae00
+*color9: #df8686
+*color10: #ff5f5f
+*color11: #ffae00
+*color12: #ffdfaf
+*color13: #df8686
+*color14: #5faf5f
+*color15: #af8787
+
+*colorUL: #ffdfaf
+*cursorColor: #ffdfaf
